@@ -1,1 +1,1 @@
-# hello_world
+# Bu Klasor tamamaen test amaçlçıdır.
