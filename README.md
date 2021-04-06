@@ -1,1 +1,1 @@
-# Bu Klasor tamamaen test amaçlçıdır.
+# Bu Klasor tamamaen test amaçlıdır.
